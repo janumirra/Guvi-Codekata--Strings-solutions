@@ -1,3 +1,3 @@
-# Guvi-Codekata--Strings-solutions
+# Guvi-Codekata-solutions
 
-This file contains solutions to codekata strings puzzles.
+solutions to codekata strings puzzles have been added
